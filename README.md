@@ -4,13 +4,12 @@ A production-ready Vue 3 starter built with Vite, Tailwind CSS, Pinia, Vue Route
 
 ## What this template includes
 
-- Vue 3 + Vite (`type: module`, fast dev server and build)
-- Vue Router (configured in `src/router/index.js`)
-- Pinia state management (initialized in `src/main.js`)
-- Tailwind CSS with CSS variables and dark mode support (`class` strategy)
-- Reusable UI primitives in `src/components/ui` (example: `Button`)
-- Utility helpers (`cn`, `valueUpdater`) in `src/lib/utils.js`
-- Optional Nix development shell (`flake.nix`)
+- Vue 3 + Vite
+- Vue Router
+- Pinia state management
+- Tailwind CSS with CSS variables and dark mode support
+- Reusable UI components from shadcn-vue
+- Optional Nix development shell
 
 ## Tech stack
 
@@ -19,7 +18,6 @@ A production-ready Vue 3 starter built with Vite, Tailwind CSS, Pinia, Vue Route
 - **Routing**: Vue Router
 - **HTTP**: Axios
 - **Styling**: Tailwind CSS + PostCSS + Shadcn-vue
-
 
 ## Getting started
 
